@@ -1,1 +1,1 @@
-# kino_bot
+bot.py
